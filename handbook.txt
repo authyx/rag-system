@@ -1,0 +1,78 @@
+=============================================================
+                    EMPLOYEE HANDBOOK
+            (Last updated: January 2026)
+=============================================================
+
+1.  REMOTE WORK POLICY
+-------------------------------------------------------------
+At our company, we embrace flexible work arrangements. All full-time
+employees are eligible to work remotely up to 4 days per week,
+subject to manager approval and role suitability.
+
+Equipment & Connectivity:
+- The company provides a laptop, monitor, and headset.
+- Employees must have a reliable high-speed internet connection
+  (minimum 50 Mbps download / 10 Mbps upload).
+- You are responsible for maintaining a secure, private workspace
+  free from distractions during working hours.
+
+Communication & Availability:
+- Core collaboration hours are 10:00 AM – 3:00 PM (local time).
+  All team members should be online and reachable via Slack during
+  this window.
+- Respond to emails and Slack messages within 2 business hours.
+- Video cameras should be on during scheduled team meetings to
+  foster connection.
+
+Work Hours & Breaks:
+- You may set your own start/end times, but you must log at least
+  8 hours per day (including a 1-hour lunch break).
+- Take short breaks every 90 minutes to avoid burnout; we
+  encourage stepping away from your screen.
+
+Reimbursement:
+- A monthly stipend of $50 is provided to offset home internet and
+  electricity costs. Submit receipts via the expense portal.
+
+2.  VACATION POLICY
+-------------------------------------------------------------
+We believe in work-life balance and encourage employees to take
+time off to recharge.
+
+Accrual:
+- Full-time employees accrue 15 days of paid vacation per year,
+  prorated for the first year.
+- Accrual occurs monthly (1.25 days per month) and carries over
+  up to a maximum of 30 days.
+
+Request & Approval:
+- Vacation requests must be submitted via the HR system at least
+  2 weeks in advance for 3+ consecutive days.
+- For single days, at least 48 hours' notice is required.
+- Managers will approve or deny requests within 3 business days,
+  considering team coverage and project deadlines.
+
+Holidays & Sick Leave:
+- In addition to vacation, the company observes 10 paid public
+  holidays (see appendix for list).
+- Sick leave is separate: 10 paid sick days per year, no advance
+  notice required (just inform your manager as soon as possible).
+
+Payout & Unused Time:
+- Unused vacation days are paid out upon termination of employment.
+- You may donate unused vacation days to a colleague in need
+  (subject to HR approval).
+
+3.  ADDITIONAL REMINDERS
+-------------------------------------------------------------
+- Confidentiality: All company data and client information must
+  be handled with care. Use VPN when accessing internal systems
+  from public networks.
+- Performance Reviews: Quarterly check-ins with your manager;
+  annual performance reviews in December.
+- Code of Conduct: Respect, inclusivity, and professionalism are
+  mandatory. Harassment of any kind will not be tolerated.
+
+=============================================================
+For any questions, contact HR at hr@ourcompany.com.
+=============================================================
